@@ -1,6 +1,8 @@
-# Codingly.io: Base Serverless Framework Template
-
-https://codingly.io
+# Sai Sugandh Serverless Template
+Aknowledgement:
+https://codingly.io 
+template skeleton lifted from 
+https://github.com/codingly-io/sls-base
 
 ## What's included
 * Folder structure used consistently across our projects.
